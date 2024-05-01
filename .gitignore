@@ -12,3 +12,6 @@ stockfish/
 
 # Numpy
 *.npz
+
+# Keras
+*.h5

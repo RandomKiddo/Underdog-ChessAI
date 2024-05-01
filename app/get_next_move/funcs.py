@@ -11,7 +11,7 @@ def square_to_index(square: int) -> tuple:
     letter = chess.square_name(square)
     return 8 - int(letter[1]), board_positions[letter[0]]
 
-def board_to_mtx(board: Any) -> list[list]:
+def board_to_mtx(board: Any) -> Any:
     board_3d = np.zeros((14, 8, 8), dtype=np.int8)
 
     for i in chess.PIECE_TYPES:

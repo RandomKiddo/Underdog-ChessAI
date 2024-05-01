@@ -1,0 +1,11 @@
+# MacOS
+*.DS_Store
+
+# Venv
+venv/
+
+# Idea
+*.idea/
+
+# Stockfish
+stockfish/

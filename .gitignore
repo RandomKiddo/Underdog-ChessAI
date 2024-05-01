@@ -16,3 +16,7 @@ stockfish/
 # Keras
 *.h5
 *.keras
+
+# FastAPI
+app/models/
+*.pyc

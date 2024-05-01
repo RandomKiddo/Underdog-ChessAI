@@ -20,3 +20,6 @@ stockfish/
 # FastAPI
 app/models/
 *.pyc
+
+# README
+imgs/

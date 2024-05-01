@@ -15,3 +15,4 @@ stockfish/
 
 # Keras
 *.h5
+*.keras

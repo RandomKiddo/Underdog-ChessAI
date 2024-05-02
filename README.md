@@ -2,8 +2,7 @@
 
 ___
 
-<img src="imgs/tensorflow-new12552.jpg" alt="Made with Tensorflow" height="150"/>
-<img src="imgs/FastAPI_b.avif" alt="Deployed with FastAPI" height="150"/>
+<img src="imgs/tensorflow-new12552.jpg" alt="Made with Tensorflow" height="150"/> <img src="imgs/FastAPI_b.avif" alt="Deployed with FastAPI" height="150"/>
 
 ![GitHub License](https://img.shields.io/github/license/RandomKiddo/Underdog-ChessAI)
 ![GitHub repo size](https://img.shields.io/github/repo-size/RandomKiddo/Underdog-ChessAI)

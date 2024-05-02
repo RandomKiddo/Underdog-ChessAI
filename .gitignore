@@ -21,5 +21,3 @@ stockfish/
 app/models/
 *.pyc
 
-# README
-imgs/
